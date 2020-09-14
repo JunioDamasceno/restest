@@ -1,4 +1,4 @@
-{[
+{"pessoa":[
   {"id": 4, "nome": "Daniel", "idade": 29},
   {"id": 5, "nome": "Felipe", "idade": 29},
   {"id": 7, "nome": "Fernanda", "idade": 29},
